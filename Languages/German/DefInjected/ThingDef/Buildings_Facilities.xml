@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Facility_VitalsCentre.label>Vitalfunktionszentrum</Facility_VitalsCentre.label>
+  <Facility_VitalsCentre.description>Ein System zur Überwachung der Vitalität von gleich mehreren Patienten. Es erhöht die allgemeine Behandlungsqualität und Operationserfolgschancen. Auch die Immunisierungsgeschwindigkeit wird durch die vereinfachte Darstellung der Biodaten beschleunigt. Kann nur in einem Hospital und mit Krankenhausbetten verwendet werden.</Facility_VitalsCentre.description>
+  <Facility_VitalsCentre_Blueprint.label>Vitalfunktionszentrum (Entwurf)</Facility_VitalsCentre_Blueprint.label>
+  <Facility_VitalsCentre_Blueprint_Install.label>Vitalfunktionszentrum (Entwurf)</Facility_VitalsCentre_Blueprint_Install.label>
+  <Facility_VitalsCentre_Frame.label>Vitalfunktionszentrum (wird gebaut)</Facility_VitalsCentre_Frame.label>
+  <Facility_VitalsCentre_Frame.description>Ein System zur Überwachung der Vitalität von gleich mehreren Patienten. Es erhöht die allgemeine Behandlungsqualität und Operationserfolgschancen. Auch die Immunisierungsgeschwindigkeit wird durch die vereinfachte Darstellung der Biodaten beschleunigt. Kann nur in einem Hospital und mit Krankenhausbetten verwendet werden.</Facility_VitalsCentre_Frame.description>
+
+  <Facility_IVDrip.label>Infusionsständer</Facility_IVDrip.label>
+  <Facility_IVDrip.description>Ein Infusionsständer um den Verlust von Flüssigkeiten vorzubeugen und diese sogar zu ersetzen. Hier sind allerlei Schläuche zur intravinösen Behandlung vorhanden, um beispielsweise einen kritischen Blutverlust zu verhindern, der möglicherweise zum Tode führen könnte.</Facility_IVDrip.description>
+  <Facility_IVDrip_Blueprint.label>Infusionsständer (Entwurf)</Facility_IVDrip_Blueprint.label>
+  <Facility_IVDrip_Blueprint_Install.label>Infusionsständer (Entwurf)</Facility_IVDrip_Blueprint_Install.label>
+  <Facility_IVDrip_Frame.label>Infusionsständer (wird gebaut)</Facility_IVDrip_Frame.label>
+  <Facility_IVDrip_Frame.description>Ein Infusionsständer um den Verlust von Flüssigkeiten vorzubeugen und diese sogar zu ersetzen. Hier sind allerlei Schläuche zur intravinösen Behandlung vorhanden, um beispielsweise einen kritischen Blutverlust zu verhindern, der möglicherweise zum Tode führen könnte.</Facility_IVDrip_Frame.description>
+
+  <Facility_ResearchCounter.label>Forschungsfeld</Facility_ResearchCounter.label>
+  <Facility_ResearchCounter.description>Ein adequater Thresen auf den man dank der äußerst sterilen Oberfläche experimentelle Versuche sensibler Natur wagen kann. Er gibt einen kleinen Bonus auf alle Labortische in der Umgebung und hält automatisch dieselbige sauber. Bis zu 20 mal stapelbar.</Facility_ResearchCounter.description>
+  <Facility_ResearchCounter_Blueprint.label>Forschungsfeld (Entwurf)</Facility_ResearchCounter_Blueprint.label>
+  <Facility_ResearchCounter_Frame.label>Forschungsfeld (wird gebaut)</Facility_ResearchCounter_Frame.label>
+  <Facility_ResearchCounter_Frame.description>Ein adequater Thresen auf den man dank der äußerst sterilen Oberfläche experimentelle Versuche sensibler Natur wagen kann. Er gibt einen kleinen Bonus auf alle Labortische in der Umgebung und hält automatisch dieselbige sauber. Bis zu 20 mal stapelbar.</Facility_ResearchCounter_Frame.description>
+
+</LanguageData>

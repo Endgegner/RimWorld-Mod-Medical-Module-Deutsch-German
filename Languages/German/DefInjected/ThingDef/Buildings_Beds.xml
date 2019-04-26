@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_OperatingTable.label>Operationstisch</Bed_OperatingTable.label>
+  <Bed_OperatingTable.description>Ein primitiver Operationstisch, der aber sein bestes gibt, auf seine alten Tage noch zu glänzen. Die beiliegenden Instrumente bei diesem Modell sollen Operationen und chirugische Eingriffe vereinfachen. Es liegt eine verbesserte Sauberkeit gegenüber einem normalen Krankenhausbett vor, aber verglichen mit Nanomedizin, Wundschließer und Laser-Autochirurgie ist hier noch viel Luft nach oben.</Bed_OperatingTable.description>
+  <Bed_OperatingTable_Blueprint.label>Operationstisch (Entwurf)</Bed_OperatingTable_Blueprint.label>
+  <Bed_OperatingTable_Blueprint_Install.label>Operationstisch (Entwurf)</Bed_OperatingTable_Blueprint_Install.label>
+  <Bed_OperatingTable_Frame.label>Operationstisch (wird gebaut)</Bed_OperatingTable_Frame.label>
+  <Bed_OperatingTable_Frame.description>Ein primitiver Operationstisch, der aber sein bestes gibt, auf seine alten Tage noch zu glänzen. Die beiliegenden Instrumente bei diesem Modell sollen Operationen und chirugische Eingriffe vereinfachen. Es liegt eine verbesserte Sauberkeit gegenüber einem normalen Krankenhausbett vor, aber verglichen mit Nanomedizin, Wundschließer und Laser-Autochirurgie ist hier noch viel Raum nach oben.</Bed_OperatingTable_Frame.description>
+
+  <Bed_CryptoBed.label>Kryptoschlaf Modul</Bed_CryptoBed.label>
+  <Bed_CryptoBed.description>Ein medizinisches Kryptoschlaf Modul zur stationären Unterstützung bei Heilvorgängen. Das Regenerationselement verlangsamt Blutungen beträchtlich, aber Nebenwirkungen bei der Benutzung einer Kryptokammer bleiben dem Anwender auch hier nicht erspart.</Bed_CryptoBed.description>
+  <Bed_CryptoBed_Blueprint.label>Kryptoschlaf Modul (Entwurf)</Bed_CryptoBed_Blueprint.label>
+  <Bed_CryptoBed_Blueprint_Install.label>Kryptoschlaf Modul (Entwurf)</Bed_CryptoBed_Blueprint_Install.label>
+  <Bed_CryptoBed_Frame.label>Kryptoschlaf Modul (wird gebaut)</Bed_CryptoBed_Frame.label>
+  <Bed_CryptoBed_Frame.description>Ein medizinisches Kryptoschlaf Modul zur stationären Unterstützung bei Heilvorgängen. Das Regenerationselement verlangsamt Blutungen beträchtlich, aber Nebenwirkungen bei der Benutzung einer Kryptokammer bleiben dem Anwender auch hier nicht erspart.</Bed_CryptoBed_Frame.description>
+
+</LanguageData>

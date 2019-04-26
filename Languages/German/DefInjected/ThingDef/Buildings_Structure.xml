@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Wall_SterileRed.label>Rote sterile Wand</Wall_SterileRed.label>
+  <Wall_SterileRed.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileRed.description>
+  <Wall_SterileRed_Blueprint.label>Rote sterile Wand (Entwurf)</Wall_SterileRed_Blueprint.label>
+  <Wall_SterileRed_Frame.label>Rote sterile Wand (wird gebaut)</Wall_SterileRed_Frame.label>
+  <Wall_SterileRed_Frame.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileRed_Frame.description>
+
+  <Wall_SterileGreen.label>Grüne sterile Wand</Wall_SterileGreen.label>
+  <Wall_SterileGreen.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileGreen.description>
+  <Wall_SterileGreen_Blueprint.label>Grüne sterile Wand (Entwurf)</Wall_SterileGreen_Blueprint.label>
+  <Wall_SterileGreen_Frame.label>Grüne sterile Wand (wird gebaut)</Wall_SterileGreen_Frame.label>
+  <Wall_SterileGreen_Frame.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileGreen_Frame.description>
+
+  <Wall_SterileBlue.label>Blaue sterile Wand</Wall_SterileBlue.label>
+  <Wall_SterileBlue.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileBlue.description>
+  <Wall_SterileBlue_Blueprint.label>Blaue sterile Wand (Entwurf)</Wall_SterileBlue_Blueprint.label>
+  <Wall_SterileBlue_Frame.label>Blaue sterile Wand (wird gebaut)</Wall_SterileBlue_Frame.label>
+  <Wall_SterileBlue_Frame.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileBlue_Frame.description>
+
+  <Wall_SterileCream.label>Besche sterile Wand</Wall_SterileCream.label>
+  <Wall_SterileCream.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileCream.description>
+  <Wall_SterileCream_Blueprint.label>Besche sterile Wand (Entwurf)</Wall_SterileCream_Blueprint.label>
+  <Wall_SterileCream_Frame.label>Besche sterile Wand (wird gebaut)</Wall_SterileCream_Frame.label>
+  <Wall_SterileCream_Frame.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileCream_Frame.description>
+
+  <Wall_SterileDark.label>Dunkle sterile Wand</Wall_SterileDark.label>
+  <Wall_SterileDark.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileDark.description>
+  <Wall_SterileDark_Blueprint.label>Dunkle sterile Wand (Entwurf)</Wall_SterileDark_Blueprint.label>
+  <Wall_SterileDark_Frame.label>Dunkle sterile Wand (wird gebaut)</Wall_SterileDark_Frame.label>
+  <Wall_SterileDark_Frame.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileDark_Frame.description>
+
+  <Wall_SterileGold.label>Goldene sterile Wand</Wall_SterileGold.label>
+  <Wall_SterileGold.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileGold.description>
+  <Wall_SterileGold_Blueprint.label>Goldene sterile Wand (Entwurf)</Wall_SterileGold_Blueprint.label>
+  <Wall_SterileGold_Frame.label>Goldene sterile Wand (wird gebaut)</Wall_SterileGold_Frame.label>
+  <Wall_SterileGold_Frame.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileGold_Frame.description>
+
+  <Wall_SterileTeal.label>Türkise sterile Wand</Wall_SterileTeal.label>
+  <Wall_SterileTeal.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileTeal.description>
+  <Wall_SterileTeal_Blueprint.label>Türkise sterile Wand (Entwurf)</Wall_SterileTeal_Blueprint.label>
+  <Wall_SterileTeal_Frame.label>Türkise sterile Wand (wird gebaut)</Wall_SterileTeal_Frame.label>
+  <Wall_SterileTeal_Frame.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileTeal_Frame.description>
+
+  <Wall_SterileBrown.label>Braune sterile Wand</Wall_SterileBrown.label>
+  <Wall_SterileBrown.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileBrown.description>
+  <Wall_SterileBrown_Blueprint.label>Braune sterile Wand (Entwurf)</Wall_SterileBrown_Blueprint.label>
+  <Wall_SterileBrown_Frame.label>Braune sterile Wand (wird gebaut)</Wall_SterileBrown_Frame.label>
+  <Wall_SterileBrown_Frame.description>Eine unpassierbare Wand die ein Dach halten kann. Wurde mit besonderen Eigenschaften zur verbesserten 
+Reinlichkeit versehen und erschafft so eine sterile Umgebung.</Wall_SterileBrown_Frame.description>
+
+</LanguageData>
